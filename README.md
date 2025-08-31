@@ -31,14 +31,15 @@ Example:
 3. Feature Engineering   
     Engineered new features, including PromoDuration and Competition Distance, to capture essential information. Addressed multicollinearity among independent variables using variance inflation factor (VIF) analysis. Detected and managed outliers using the winsorizing technique. Applied One-Hot Encoding to categorical variables for compatibility with machine learning algorithms. Employed various transformation techniques to achieve a normal distribution of data.
    
-4. Model Selection, Training and Hyperparamaters Tuning 
+4. Model Selection, Training and Hyperparamaters Tuning   
    Split the preprocessed data into training and testing sets to evaluate model performance. Implement multiple machine learning algorithms, including linear regression, decision trees, and random forest with regression techniques Evaluated model performance using metrics such as R-squared score, means square error, and root mean square error Employed regularization techniques, including Lasso, Ridge, to enhance model performance.
-   
-5. Model Evaluation  
+---   
+**Result** 
     After thorough experimentation with various machine learning the XGBoost model emerged as the top-performing model for sales prediction. It achieved an impressive R2 score of around 97.5%** on the training data and maintained 95% on the test dataset. The model displayed lower Mean Squared Error (MSE) and Root Mean Squared Error (RMSE) values compared to other models, indicating superior predictive accuracy. Consistent performance across multiple evaluation metrics, including R2 score, MSE, and RMSE, suggests robust generalization. Residuals analysis revealed well-behaved residuals with mean and median values close to zero, affirming the model's ability to capture underlying data patterns effectively This project showcases the effective utilization of data analysis, feature engineering, and machine learning techniques to solve a real-world forecasting problem. The insights gained from the analysis provide valuable information for decision-making within the retail industry.
+    
 ---
 **🏷️ Tags**  
-#MachineLearning #Regression #PredictiveAnalytics #EDA #Python #SQL #PowerBI #Tableau #RetailAnalytics    
+#MachineLearning #Regression #PredictiveAnalytics #EDA #Python #RetailAnalytics    
 
 ---
 
