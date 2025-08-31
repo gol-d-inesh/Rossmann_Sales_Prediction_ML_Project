@@ -9,15 +9,15 @@ Example:
 
 **📂 Dataset**
 
-- Size: 173,100+ transaction records and 1,400+ store metadata records  
+- Size: 1M+ transaction records and 1,400 store metadata records  
 - Features: Sales, Promotions, Store Type, Holidays, Competition, etc.   
 - Source: Kaggle Rossmann Store Sales Dataset
 ---
 **🛠️ Tools & Technologies**
 
-- Languages: Python, SQL  
+- Languages: Python 
 - Libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, XGBoost  
-- Visualization: Power BI / Tableau / Excel   
+- Visualization: Python  
 - Environment: Jupyter Notebook / Google Colab
 ---
 **🔍 Steps / Workflow**
