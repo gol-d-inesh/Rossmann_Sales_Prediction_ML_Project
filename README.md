@@ -1,5 +1,8 @@
 # 📊 Rossmann Retail Sales Prediction
 
+<img width="800" height="534" alt="image" src="https://github.com/user-attachments/assets/22d19a3b-6269-463a-b627-7d8456406dc4" />
+
+
 **📌 Overview**
 
 Briefly describe the project.  
